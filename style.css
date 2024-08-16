@@ -26,7 +26,11 @@ H1{
     padding: 1em;
 }
 
-
+.container__imagem {
+    padding: 1em;
+    width: 50px;
+    height: 50px;
+}
 
 
 
